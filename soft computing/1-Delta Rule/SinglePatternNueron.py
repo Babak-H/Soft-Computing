@@ -40,10 +40,3 @@ for i in range(0, k+1):
         weights[j] = weights[j] + alpha * (outputZ-y) * inputX[j]
 
 print("output : ", y)
-
-
-
-
-
-
-
